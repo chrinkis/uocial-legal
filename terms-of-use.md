@@ -27,7 +27,9 @@ access may be revoked if eligibility cannot be confirmed.
 You are required to register using your official university email address,
 which will be verified before access is granted. Your email address is used
 solely for the purposes of identity verification and, where necessary, account
-communication.
+communication. Your IP address is recorded at the time you accept these Terms
+and the Privacy Policy, for the purpose of demonstrating that consent was
+given.
 You are responsible for maintaining the confidentiality of your login
 credentials. You must not share your account with any other person. Any
 activity that occurs under your account is your responsibility.
@@ -38,8 +40,17 @@ credentials.
 ## 4. Anonymity & Pseudonymous Posting
 
 Uocial allows users to post content and comments without publicly disclosing
-their identity. Your identity is not displayed to other users, moderators, or
-the public.
+their identity. Your real identity is not displayed to other users, moderators,
+or the public.
+
+When you comment on a post, a consistent pseudonym is shown next to each of
+your comments within that thread. This pseudonym is a cryptographic hash
+derived from your account and the post; it differs across posts and cannot be
+reversed to identify you. Its purpose is to let readers follow a conversation
+by seeing which replies belong to the same commenter. Additionally, if you
+comment on your own post, your comments will be labelled to indicate that you
+are the author of that post.
+
 However, for platform integrity and legal compliance purposes, your identity is
 linked to your content in the Platform's internal database, accessible only to
 the Platform administrator. This information is kept strictly confidential and
@@ -74,7 +85,13 @@ does not fall explicitly under the categories above.
 Uocial uses a volunteer moderation system to help maintain a safe and
 respectful environment. Moderators have the authority to hide posts or comments
 that they determine to be in violation of these Terms or otherwise harmful to
-the community.
+the community. This authority may be exercised proactively, without waiting for
+a report threshold to be reached.
+If a post or comment receives a sufficient number of user reports, it will be
+automatically hidden pending review by a moderator. The moderator then makes
+the final determination on whether the content should remain hidden or be
+restored. This automated step is a temporary precautionary measure and does not
+constitute a final decision.
 Moderators do not have access to the identity of users. They act based solely
 on the content of posts and comments. If a moderator identifies content that
 warrants action against a specific account, they may request the administrator
@@ -109,14 +126,19 @@ criminal matters.
 Uocial will not voluntarily disclose user identity information to any third
 party outside of legally mandated circumstances.
 
-## 9. Account Termination
+## 9. Account Termination and Deletion
 
 Uocial reserves the right to suspend or permanently ban any account, at any
 time and at its sole discretion, for violations of these Terms or for any
 conduct deemed harmful to the Platform or its community.
-Currently, Uocial does not offer a self-service account deletion feature. If
-you wish to cease using the Platform, you may stop using the service at any
-time. Please refer to the Privacy Policy for information regarding your data.
+You may request deletion of your account at any time by contacting
+privacy@uocial.gr. Upon such request, your publicly visible profile, display
+name, and IP addresses will be removed promptly. Your email address, account
+record, and content (posts, comments, and reactions) will be retained for five
+(5) years for legal compliance purposes. After this period, your email address
+and identifiers are permanently deleted; your posts, comments, and reactions are
+retained as anonymous content that cannot be attributed to you. Please refer to
+the Privacy Policy for full details.
 
 ## 10. No Affiliation with the University
 
@@ -139,8 +161,8 @@ warranties of any kind, express or implied.
 ## 12. Amendments to These Terms
 
 Uocial reserves the right to amend these Terms at any time. Any changes will be
-communicated to users via the Platform. Continued use of the Platform after any
-amendments constitutes your acceptance of the updated Terms.
+communicated to users via the Platform, and users will be required to review and
+accept the updated Terms before continuing to use the Platform.
 
 ## 13. Governing Law & Jurisdiction
 
